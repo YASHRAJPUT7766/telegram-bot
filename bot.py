@@ -3,7 +3,7 @@ import yt_dlp
 import os
 
 # यहाँ अपना Telegram Bot Token डालें
-BOT_TOKEN = "7764415796:AAEwjQT5GbRs-WxczGVZn8DOvGc3ha8W8Jo"
+BOT_TOKEN ="7764415796:AAEndEYGBZS5UJZUWY19nwBxgdT4c5G_15M"
 
 bot = telebot.TeleBot(BOT_TOKEN)  # यह लाइन वापस जोड़ें
 
